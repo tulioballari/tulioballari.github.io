@@ -55,4 +55,5 @@ https://nodesource.com/blog/event-loop-utilization-nodejs
 An overview of Node.js: architecture, APIs, event loop, concurrency
 https://2ality.com/2022/09/nodejs-overview.html
 
-
+Understanding Concurrency, Parallelism and JS
+https://www.rugu.dev/en/blog/concurrency-and-parallelism/
